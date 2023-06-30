@@ -1,0 +1,62 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: repeat;
+  background: no-repeat;
+  background-size: cover;
+  padding: 2.2em;
+
+}
+
+
+h1{
+  background: fixed;
+  color: black;
+  text-align: center;
+  padding: 2rem;
+  font-size:3em;
+
+}
+h2,h3{
+margin: 15px 15px;
+}
+.phrase{
+  background-color: beige;
+  text-align: center;
+  border-radius: .5rem;
+  max-width: 300px;
+  box-shadow: 2px 2px 8px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.author{
+  padding: 1.1rem;
+  background-color: beige;
+  text-align: center;
+  border-radius: .5rem;
+  max-width: 200px;
+  box-shadow: 2px 2px 6px;
+  margin: auto;
+  
+}
+
+
+button{
+  padding: 2rem;
+  background-color: beige;
+  text-align: center;
+  
+  display: flex;
+  justify-content: center;
+  border-radius: .5rem;
+  max-width: 200px;
+  box-shadow: 2px 2px 6px;
+  margin: auto;
+
+}
